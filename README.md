@@ -5,10 +5,10 @@ CALCULATE THE COST AND TAX AND FINALLY GIVE THE ESTIMATE COST TO THEM.
 
 ROOM_CLEANING_SERVICE
 
-  Charges:
-        ₹500 per small room
-        ₹800 per large room
-        Sales tax rate is 8% of cost
+Charges:
+₹500 per small room.
+₹800 per large room.
+Sales tax rate is 8% of cost.
 
 Prompt the user for the number of small and large rooms they would like cleaned
 and provide an estimate such as:
@@ -25,4 +25,6 @@ Service_charge : Rs.184
 Total estimate: Rs.2484
 ======================================
 
-THANKS FOR USING OUR SERVICE.
+THANKS FOR USING OUR SERVICE
+
+
